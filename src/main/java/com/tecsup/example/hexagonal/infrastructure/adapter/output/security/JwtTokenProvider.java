@@ -1,6 +1,6 @@
 package com.tecsup.example.hexagonal.infrastructure.adapter.output.security;
 
-import com.example.Hexagonal.domain.model.User;
+import com.tecsup.example.hexagonal.domain.model.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
